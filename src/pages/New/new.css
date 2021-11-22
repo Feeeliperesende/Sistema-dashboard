@@ -1,0 +1,19 @@
+form textarea{
+  height:107px;
+  resize:none;
+}
+
+.radio{
+  margin:10px;
+  
+}
+.radio-prog{
+  margin:10px
+}
+.radio-aten{
+  margin:10px
+}
+.status span {
+  padding-left: .5em;
+  font-size: 1.1em;
+}
